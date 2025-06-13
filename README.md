@@ -1,7 +1,7 @@
 <img align = "center">![web](https://github.com/user-attachments/assets/aaa331f3-48f5-4fbd-bb69-e895f97c684d)</img>
 
 # 💫 About Me:
-• Flutter Developer @2Cents Capital<br>• Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
+• Flutter Developer @2Cents Capital<br>• Ex-SDE Intern @IIT Ropar<br> • Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
 
 
 ## 🌐 Socials:
