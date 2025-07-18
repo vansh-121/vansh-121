@@ -49,6 +49,18 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vansh-121&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=vansh-121&icon=1&color=12)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 Total Profile Visitors
+<img src="https://komarev.com/ghpvc/?username=vansh-121&label=Visitors&color=blueviolet&style=plastic" alt="Visitors Badge" width="150">
+
+
+---
+
+<p><b>Made with ❤️ by Vansh</b></p>
+
+
+
+
+
+
