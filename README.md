@@ -9,7 +9,7 @@
 ---
 
 # 💫 About Me:
-• Flutter Developer @2Cents Capital<br>• Ex-SDE Intern @IIT Ropar<br> • Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
+• App Developer @2Cents Capital<br>• Ex-SDE Intern @IIT Ropar<br> • Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
 
 ---
 
