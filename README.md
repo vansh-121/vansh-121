@@ -1,5 +1,5 @@
 <img 
-  src="https://github.com/user-attachments/assets/d59d2391-87dc-4e67-a85b-abedaa37c667"
+  src="https://github.com/user-attachments/assets/10f95323-6571-466e-a44c-3c7d17833e5e"
   alt="Copy of PUBLIC SPEAKER MENTOR ANCHOR"
   width="1584"
   height="396"
