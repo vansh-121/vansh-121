@@ -1,5 +1,5 @@
 <img 
-  src="https://github.com/user-attachments/assets/10f95323-6571-466e-a44c-3c7d17833e5e"
+  src="https://github.com/user-attachments/assets/5c7a90fa-5c5a-4abb-a077-61e5d12aec83"
   alt="Copy of PUBLIC SPEAKER MENTOR ANCHOR"
   width="1584"
   height="396"
@@ -9,7 +9,7 @@
 ---
 
 # 💫 About Me:
-• App Developer @2Cents Capital<br>• Ex-SDE Intern @IIT Ropar<br> • Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
+• Software Engineer @2Cents Capital<br>• Ex-SDE Intern @IIT Ropar<br> • Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
 
 ---
 
