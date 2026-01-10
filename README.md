@@ -9,7 +9,7 @@
 ---
 
 <p align="left">
-  <img src="./chat.svg" alt="About Me" width="550" />
+  <img src="./chat-updated.svg" alt="About Me" width="550" />
 </p>
 
 ---
