@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="./chat.svg" alt="About Me" width="550" />
+</p>
+
+---
+
 # 💫 About Me:
 • Software Engineer @2Cents Capital<br>• Ex-SDE Intern @IIT Ropar<br> • Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
 
