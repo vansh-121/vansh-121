@@ -9,7 +9,9 @@
 ---
 
 <p align="left">
-  <img src="./chat-updated.svg" alt="About Me" width="550" />
+  <a href="https://www.linkedin.com/in/vansh-sethi-vs/" target="_blank">
+    <img src="./chat-updated.svg" alt="About Me" width="550" />
+  </a>
 </p>
 
 ---
