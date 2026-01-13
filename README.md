@@ -16,8 +16,16 @@
 
 ---
 
-# 💫 About Me:
-• Software Engineer @2Cents Capital<br>• Ex-SDE Intern @IIT Ropar<br> • Gold Medalist @IndiaSkills 2024<br>• Cross-Platform App Developer<br>• AR/VR Designer<br>• Gen AI Enthusiast<br>• Web Designer<br>• Public Speaker
+## 🚀 About Me
+
+• Software Engineer at 2Cents Capital <br>
+• Former SDE Intern at IIT Ropar  <br>
+• Gold Medalist – IndiaSkills 2024  <br>
+• Cross-Platform App Developer (Mobile & Web)  <br>
+• AI Engineer with focus on GenAI & Agentic AI <br>
+• AR/VR Designer with real-world project experience <br> 
+• Public Speaker & Mentor
+
 
 ---
 
