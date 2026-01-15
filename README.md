@@ -48,7 +48,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vansh-121&theme=dark&hide_border=false)
-![](https://github-readme-stats-one-bice.vercel.app/api?username=vansh-121&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)<br/>
+![](https://github-readme-stats-one-bice.vercel.app/api?username=vansh-121&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <p align="center">
   <img
