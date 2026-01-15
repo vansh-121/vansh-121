@@ -48,7 +48,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=vansh-121&theme=dark&hide_border=false)
-![](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=vansh-121&layout=compact&theme=highcontrast)
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=vansh-121&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -65,7 +64,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Most Used Languages
 ![](https://github-contributor-stats.vercel.app/api?username=vansh-121&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=vansh-121&layout=compact&theme=highcontrast)
 
