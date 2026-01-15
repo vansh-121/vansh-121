@@ -47,14 +47,14 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats-one-bice.vercel.app/api?username=vansh-121&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![](https://nirzak-streak-stats.vercel.app/?user=vansh-121&theme=dark&hide_border=false)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=vansh-121&theme=highcontrast&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Contribution
-![](https://github-readme-activity-graph.vercel.app/graph?username=vansh-121&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=vansh-121&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=vansh-121&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
 
 ---
