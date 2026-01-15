@@ -67,6 +67,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vansh-121&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=vansh-121&layout=compact&theme=highcontrast)
 
 ---
 
