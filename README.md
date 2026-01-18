@@ -1,5 +1,5 @@
 <img 
-  src="https://github.com/user-attachments/assets/5c7a90fa-5c5a-4abb-a077-61e5d12aec83"
+  src="https://github.com/user-attachments/assets/2a552f49-7203-4fbf-b1d4-508c0726d102"
   alt="Copy of PUBLIC SPEAKER MENTOR ANCHOR"
   width="1584"
   height="396"
@@ -49,7 +49,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=vansh-121&theme=dark&hide_border=false)
 ![](https://github-readme-stats-one-bice.vercel.app/api?username=vansh-121&theme=highcontrast&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-121&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
