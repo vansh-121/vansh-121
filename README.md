@@ -75,7 +75,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <b>Made with ❤️ by <a href="https://vanshsethi.in" target="_blank">Vansh</a></b>
 </p>
 
