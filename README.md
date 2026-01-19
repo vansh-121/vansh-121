@@ -9,7 +9,7 @@
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vansh-sethi-vs/" target="_blank">
+  <a href="https://vanshsethi.in" target="_blank">
     <img src="./chat-updated.svg" alt="About Me" width="550" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techie.vansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-sethi-vs) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vansh_sethi_vs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techvanshcreator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh.sethi98760@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vanshsethi.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techie.vansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-sethi-vs) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vansh_sethi_vs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techvanshcreator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh.sethi98760@gmail.com)
 
 ---
 
@@ -75,7 +75,9 @@
 
 ---
 
-<p><b>Made with ❤️ by Vansh</b></p>
+<p align="center">
+  <b>Made with ❤️ by <a href="https://vanshsethi.in" target="_blank">Vansh</a></b>
+</p>
 
 
 
