@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-• Software Engineer at 2Cents Capital <br>
+• Application Developer at 2Cents Capital <br>
 • Former SDE Intern at IIT Ropar  <br>
 • Gold Medalist – IndiaSkills 2024  <br>
 • Cross-Platform App Developer (Mobile & Web)  <br>
