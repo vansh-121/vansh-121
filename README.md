@@ -1,6 +1,6 @@
 <img 
-  src="https://github.com/user-attachments/assets/6c56655c-016d-4125-9b6b-9d39911aeccf"
-  alt="Copy of PUBLIC SPEAKER MENTOR ANCHOR"
+  src="https://github.com/user-attachments/assets/3500bc13-30c4-4dd8-ac3a-b9d8d17bbec5"
+  alt="GitHub Banner"
   width="1584"
   height="396"
   style="display: block; margin: auto;"
