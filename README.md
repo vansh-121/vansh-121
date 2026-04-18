@@ -19,11 +19,11 @@
 ## 🚀 About Me
 
 • Application Developer at 2Cents Capital <br>
-• Former SDE Intern at IIT Ropar  <br>
-• Gold Medalist – IndiaSkills 2024  <br>
+• Former SDE Intern at Annam.ai, IIT Ropar  <br>
+• Medallion for Excellence🏅 @IndiaSkills ’26 Nationals <br>
+• 2× Gold Medalist (Regionals ’26, State ’24) - Mobile App Dev <br>
 • Cross-Platform App Developer (Mobile & Web)  <br>
 • AI Engineer with focus on GenAI & Agentic AI <br>
-• AR/VR Designer with real-world project experience <br> 
 • Public Speaker & Mentor
 
 
