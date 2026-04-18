@@ -295,8 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Software Engineer @ 2Cents Capital </text>
-    <text x="15" y="50"> Building Valura.ai</text>
+    <text x="15" y="27"> App Developer @ 2Cents Capital </text>
+    <text x="15" y="50"> Ex-SDE at Annam.ai, IIT Ropar</text>
   </g>
 
   <!-- typing 3 -->
@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Ex-SDE at Annam.ai, IIT Ropar </text>    
+    <text x="15" y="27"> Medallion for Excellence🏅 @IndiaSkills ’26 </text>    
   </g>
 
   <!-- typing 4 -->
@@ -344,7 +344,7 @@
   <!-- State Gold Medalist -->
   <g transform="translate(10, 168)" class="msg-4">
     <rect width="440" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">🏅 State Gold Medalist @IndiaSkills 2024 </text>    
+    <text x="15" y="27">2× Gold Medalist 🥇 (Regionals ’26, State ’24)</text>    
   </g> 
 
   <!-- typing 5 -->
